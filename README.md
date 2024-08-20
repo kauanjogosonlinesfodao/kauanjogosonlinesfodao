@@ -2,7 +2,7 @@
 
 meu nome é Kauan Santin
 
-- estou estudando no ensino médio
+- estou estudando na [Alura](https://www.alura)
 - estou me desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para minha organização e compartilhamento de meus projetos desenvolvidos
 

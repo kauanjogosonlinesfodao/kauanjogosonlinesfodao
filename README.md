@@ -7,3 +7,7 @@ meu nome é Kauan Santin
 - utilizo esse espaço para minha organização e compartilhamento de meus projetos desenvolvidos
 
   ### Você entrar em contato comigo 📫
+
+  kauanoralinolaurindosantin@gmail.com
+
+![](https://media1.tenor.com/m/nRY6AxMBRpkAAAAd/shadow-the-hedgehog-edgy.gif)
